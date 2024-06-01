@@ -66,8 +66,8 @@ steps:
       potentialCases:
         id: potentialCases
         source: primary-malignancy_kidney-and-ureter-hypernephroma---primary/output
-  vpersonal-primary-malignancy_kidney-and-ureter---primary:
-    run: vpersonal-primary-malignancy_kidney-and-ureter---primary.cwl
+  personal-primary-malignancy_kidney-and-ureter---primary:
+    run: personal-primary-malignancy_kidney-and-ureter---primary.cwl
     out:
     - output
     in:
@@ -87,7 +87,7 @@ steps:
         source: inputModule8
       potentialCases:
         id: potentialCases
-        source: vpersonal-primary-malignancy_kidney-and-ureter---primary/output
+        source: personal-primary-malignancy_kidney-and-ureter---primary/output
   kidney---primary:
     run: kidney---primary.cwl
     out:
