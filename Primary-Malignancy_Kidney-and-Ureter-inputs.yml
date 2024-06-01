@@ -18,7 +18,7 @@ inputModule6:
   path: python/primary-malignancy_kidney-and-ureter-neoplasm---primary.py
 inputModule7:
   class: File
-  path: python/vpersonal-primary-malignancy_kidney-and-ureter---primary.py
+  path: python/personal-primary-malignancy_kidney-and-ureter---primary.py
 inputModule8:
   class: File
   path: python/primary-malignancy_kidney-and-ureter-[m]hypernephroma---primary.py
